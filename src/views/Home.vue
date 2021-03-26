@@ -1,13 +1,13 @@
 <template>
   <main>
-    <div class="flex">
+    <div class="flex ">
       <div class="lg:w-1/12 md:w-2/12 h-screen">
         <SideBar />
       </div>
-      <div class="lg:w-11/12 md:w-10/12 bg-gray-100">
+      <div class="lg:w-11/12 md:w-10/12 bg-gray-100 overflow-hidden h-screen">
         <SearchBar />
-        <div class="flex flex-col h-1/12 max-h-screen">
-          <div class="flex justify-end h-full">
+        <div class="flex flex-col h-11/12 max-h-screen">
+          <div class="flex justify-end h-1/12">
             <div class="flex items-center mr-8 p-auto">
               <div class="ml-1 relative rounded border-green-500">
                 <div>
@@ -99,7 +99,7 @@
 
           <div
             v-if="Display == 'flex'"
-            class="ml-6 mt-6 flex flex-col justify-start overflow-auto h-auto"
+            class="ml-6 mt-6 flex flex-col justify-start overflow-auto h-auto h-8/12" 
           >
             <draggable
               class="list-group"

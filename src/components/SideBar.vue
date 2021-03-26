@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gray-800 h-screen flex-col items-start main">
+  <div class="bg-gray-800 h-screen flex-col items-start main ">
     <div class="mx-auto py-3 px-3 sm:px-6 lg:px-8 h-4/6">
       <p>LOGO</p>
 

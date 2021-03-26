@@ -1,5 +1,5 @@
 <template>
-  <div class="flex-1 flex justify-between px-4 sm:px-6 lg:px-8 bg-white">
+  <div class="flex-1 flex justify-between px-4 sm:px-6 lg:px-8 bg-white h-1/12">
     <div class="flex-1 flex">
       <form class="w-full flex md:ml-0" action="#" method="GET">
         <label for="search_field" class="sr-only">Search</label>
