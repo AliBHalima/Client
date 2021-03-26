@@ -3,25 +3,137 @@
     <div class="mx-auto py-3 px-3 sm:px-6 lg:px-8 h-4/6">
       <p>LOGO</p>
 
-      <div class="py-3 mt-12">
-        <p>Item1</p>
+      <div class="py-3 mt-12 flex justify-center">
+        <button type="button" class="relative ">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="24"
+            class="stroke-current stroke-1 text-white"
+            height="24"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9"
+            />
+          </svg>
+        </button>
       </div>
-      <div class="py-3 mt-12">
-        <p>Item2</p>
+      <div class="py-3 mt-12 flex justify-center">
+          <button type="button" class="relative ">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+            class="stroke-current stroke-1 text-white"
+          width="24"
+          height="24"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M7 4v16M17 4v16M3 8h4m10 0h4M3 12h18M3 16h4m10 0h4M4 20h16a1 1 0 001-1V5a1 1 0 00-1-1H4a1 1 0 00-1 1v14a1 1 0 001 1z"
+          />
+        </svg>
+         </button>
       </div>
-      <div class="py-3 mt-12">
-        <p>Item3</p>
+     
+      <div class="py-3 mt-12 flex justify-center">
+          <button type="button" class="relative ">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+            class="stroke-current stroke-1 text-white"
+          width="24"
+          height="24"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M7 4v16M17 4v16M3 8h4m10 0h4M3 12h18M3 16h4m10 0h4M4 20h16a1 1 0 001-1V5a1 1 0 00-1-1H4a1 1 0 00-1 1v14a1 1 0 001 1z"
+          />
+        </svg>
+         </button>
       </div>
-      <div class="py-3 mt-12">
-        <p>Item4</p>
+       <div class="py-3 mt-12 flex justify-center">
+           <button type="button" class="relative">
+         <svg
+          xmlns="http://www.w3.org/2000/svg"
+            class="stroke-current stroke-1 text-white"
+          width="24"
+          height="24"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M7 4v16M17 4v16M3 8h4m10 0h4M3 12h18M3 16h4m10 0h4M4 20h16a1 1 0 001-1V5a1 1 0 00-1-1H4a1 1 0 00-1 1v14a1 1 0 001 1z"
+          />
+        </svg>
+         </button>
       </div>
     </div>
     <div class="mx-auto py-3 px-3 sm:px-6 lg:px-8 h-2/6">
-      <div class="py-3 mt-24">
-        <p>Item5</p>
+      <div class="py-3 mt-24 flex justify-center">
+        <button type="button" class="relative p-1 mt-2">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+              class="stroke-current stroke-1 text-white"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+            width="24"
+            height="24"
+          >
+            <path
+              stroke-linecap="round"
+              h
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"
+            />
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
+            />
+          </svg>
+        </button>
       </div>
-      <div class="py-3">
-        <p>Item6</p>
+      <div class="pt-3 flex justify-center">
+        <div>
+          <button type="button" class="relative pb-2">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+                class="stroke-current stroke-1 text-white"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+              width="24"
+              height="24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M5.121 17.804A13.937 13.937 0 0112 16c2.5 0 4.847.655 6.879 1.804M15 10a3 3 0 11-6 0 3 3 0 016 0zm6 2a9 9 0 11-18 0 9 9 0 0118 0z"
+              />
+            </svg>
+          </button>
+        </div>
       </div>
     </div>
 
